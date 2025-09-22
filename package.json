@@ -1,0 +1,19 @@
+{
+  "name": "pythtest",
+  "version": "1.0.0",
+  "main": "fetchUSDFromPyth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@pythnetwork/price-service-client": "^1.9.0",
+    "@pythnetwork/pyth-sdk-solidity": "^4.2.0",
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0",
+    "install": "^0.13.0",
+    "npm": "^11.6.0"
+  }
+}
